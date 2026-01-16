@@ -1,2 +1,3 @@
 # queensco.github.io
-A website to view all of Queens County's open-source projects and report vulnerabilities in the game.
+portfolio for myself (madzxla_tycoon)
+it's available at madzxla.xyz
